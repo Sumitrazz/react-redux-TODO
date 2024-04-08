@@ -2,6 +2,10 @@
 
 This is a simple todo list application built with React and Redux.
 
+## Demo
+
+You can access the live demo of this application [here](https://react-redux-todo-black.vercel.app).
+
 ## Features
 
 - Add new todos.
